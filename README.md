@@ -2,7 +2,7 @@
 
 <!--
 💻 Frontend Development Student  
-🚀 Passionate about building web applications  
+🚀 Passionate about building web applications 
 🌱 Currently learning JavaScript, React.  
 Here are some ideas to get you started:
 
