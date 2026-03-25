@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Manas Jha
+## Hi 👋 I'm Manas Jha
 
 <!--
 💻 Frontend Development Student  
